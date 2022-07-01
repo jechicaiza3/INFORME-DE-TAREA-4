@@ -10,7 +10,7 @@
 
 **Carrera:** Electrónica y Automatizacion 
 
-**NRC:** 7903
+**NRC:** 7309
 
 **1. OBJETIVOS**
 
